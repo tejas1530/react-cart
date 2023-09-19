@@ -4,7 +4,7 @@ import { Routes, Route, Navigate } from "react-router-dom";
 import Home from "./components/Home";
 import Cart from "./components/Cart";
 import NotFound from "./components/NotFound";
-const App = () => {
+const App = ()   => {
 	return (
 		<main>
 			<section className="sticky top-0">
